@@ -39,6 +39,7 @@
 - [Jason Allen](https://github.com/jtoallen)
 - Ruben Gomez Bahamonde
 - Elaine
+- Andrei Diaconu (https://github.com/iFrom02Hero)
 - [Simrana Farrukh] (https://github.com/simranfarrukh)
 - ashtise
 - [Mohammed Riyaz J] (https://github.com/riyazjahangir)
